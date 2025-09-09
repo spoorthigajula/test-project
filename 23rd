@@ -1,0 +1,111 @@
+<html>
+    <head>
+        <title>Day 4 Html Tags</title>
+        </head>
+
+        <body>
+            <p>
+                this is IT branch <del>students</del> in CC2 Lab
+                <br>
+                <ins>in MRECW College</ins>
+            </p>
+            <br>
+            <table border="S">
+                <thead>
+                    <tr>
+                        <th> S. No      </th>
+                        <th> S. Name    </th>
+                        <th> S. Branch  </th>
+                        <th> S. Year    </th>
+                        <th> S. GPA     </th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td> 1          </td>
+                        <td> a          </td>
+                        <td> IT         </td>
+                        <td> 1          </td>
+                        <td> 88         </td>
+                    </tr>
+                    <tr>
+                        <td> 2          </td>
+                        <td> b          </td>
+                        <td> IT         </td>
+                        <td> 1          </td>
+                        <td> 75         </td>
+                    </tr>
+                    <tr>
+                        <td> 3          </td>
+                        <td> c          </td>
+                        <td> IT         </td>
+                        <td> 1          </td>
+                        <td> 94         </td>
+                    </tr>
+                    <tr>
+                        <td> 4          </td>
+                        <td> d          </td>
+                        <td> IT         </td>
+                        <td> 1          </td>
+                        <td> 85         </td>
+                    </tr>
+
+                </tbody>
+            </table>
+            <br>
+            <table border="S">
+                <thead>
+                    <tr> 
+                        <th> DAY            </th>
+                        <th> 9:20  to 12:30 </th>
+                        <th> 12:30 to 1:30  </th>
+                        <th> 1:30  to 4:20  </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td> MONDAY         </td>
+                        <td> EC             </td>
+                        <td> Lunch          </td>
+                        <td> PPS Lab        </td>
+                    </tr>
+                    <tr>
+                        <td> TUESDAY        </td>
+                        <td> Training       </td>
+                        <td> Lunch          </td>
+                        <td> LADE           </td>
+                    </tr>
+                    <tr>
+                        <td> WEDNESDAY      </td>
+                        <td> Training       </td>
+                        <td> Lunch          </td>
+                        <td> PPS Lab        </td>
+                    </tr>
+                    <tr>
+                        <td> THURSDAY       </td>
+                        <td> Training       </td>
+                        <td> Lunch          </td>
+                        <td> ELCS           </td>
+                    </tr>
+                    <tr>
+                        <td> FRIDAY         </td>
+                        <td> EC             </td>
+                        <td> Lunch          </td>
+                        <td> PPS Lab        </td>
+                    </tr>
+                    <tr>
+                        <td> SATURDAY       </td>
+                        <td> Training       </td>
+                        <td> Lunch          </td>
+                        <td> PPS Lab        </td>
+                    </tr>
+                </tbody>
+             </table>
+             <br>
+             
+
+            
+        </body>
+    
+</html>  
